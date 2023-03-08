@@ -1,3 +1,3 @@
 # dotfiles
 make laptop look
-🅽🅸🅲🅴
+🆁🅸🅲🅴
