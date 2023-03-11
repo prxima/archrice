@@ -1,7 +1,7 @@
 
 My Linux rice. Includes scripts for DWM, ST, Dmenu and Zsh.
 
-´´´
+´´´vim
 I use Arch btw
 ´´´
 
