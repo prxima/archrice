@@ -79,6 +79,9 @@ I use Arch btw
 ---
 
 ## [Catppuccin](https://github.com/catppuccin/catppuccin) Mocha
+
+![screenshot](https://vscodethemes.com/e/catppuccin.catppuccin-vsc/catppuccin-mocha.svg?language=javascript)
+
 | Type           | Category        | Value     | Color
 |----------------|-----------------|-----------|------------------------------------------------------
 | Background     | Background      | `#1e1e2e` | ![background](https://place-hold.it/32/1e1e2e?text=+)
